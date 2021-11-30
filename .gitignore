@@ -1,4 +1,5 @@
 decompress-avi/decompress-avi
+/driver/driver
 /.GOPATH
 /bin
 *.csv
